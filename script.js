@@ -33,7 +33,7 @@ const projects = [
   {
     title: "Personal Portfolio Website",
     description: "Responsive portfolio using HTML, CSS, and JavaScript. Showcases projects and GitHub repositories.",
-    link: "https://github.com/SAIKISHOREBELIGE/portfolio"
+    link: "https://github.com/SAIKISHOREBELIGE/Personal-Portfolio-Website"
   },
   {
     title: "Cyberbullying Detection on Social Media",
